@@ -3,10 +3,11 @@ RENCANA KONTEN CPOK
 -Implemetasi web desain
 *HTML
 *CSS
-^Bootstrap 5
-^Taliwan CSS
+^Pake Framework
+^Bootstrap aja
 *JavaScript
 ^Node Js
 -Implementasi app desain
 -Diary makan
 -Diet diary
+-Foto-foto
