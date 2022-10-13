@@ -6,7 +6,7 @@ RENCANA KONTEN CPOK
 ^Pake Framework
 ^Bootstrap aja
 *JavaScript
--Tulis Pengeluaran
+^Node Js
 -Implementasi app desain
 -Diary makan
 -Diet diary
