@@ -3,8 +3,10 @@ RENCANA KONTEN CPOK
 -Implemetasi web desain
 *HTML
 *CSS
+^Pake Framework
 *JavaScript
 -Tulis Pengeluaran
 -Implementasi app desain
 -Diary makan
 -Diet diary
+-Foto-foto
