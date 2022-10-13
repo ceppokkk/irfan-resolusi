@@ -3,6 +3,8 @@ RENCANA KONTEN CPOK
 -Implemetasi web desain
 *HTML
 *CSS
+^Bootstrap 5
+^Taliwan CSS
 *JavaScript
 ^Node Js
 -Implementasi app desain
