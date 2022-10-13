@@ -4,6 +4,7 @@ RENCANA KONTEN CPOK
 *HTML
 *CSS
 ^Pake Framework
+^Bootstrap aja
 *JavaScript
 -Tulis Pengeluaran
 -Implementasi app desain
