@@ -4,6 +4,7 @@ RENCANA KONTEN CPOK
 *HTML
 *CSS
 *JavaScript
+-Tulis Pengeluaran
 -Implementasi app desain
 -Diary makan
 -Diet diary
